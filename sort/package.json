@@ -1,0 +1,12 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "dev": "node MergeSort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
